@@ -9,3 +9,12 @@ Projet de Data Analysis & Prédiction sur l'affluence des transports urbains.
 - Développer un dashboard interactif (Power BI ou Streamlit).
 
 ## Structure du projet
+
+## Roadmap
+- [ ] Collecte des données
+- [ ] Nettoyage et préparation
+- [ ] Analyse exploratoire (EDA)
+- [ ] Modélisation
+- [ ] Dashboard interactif
+- [ ] Documentation et mise en ligne
+
