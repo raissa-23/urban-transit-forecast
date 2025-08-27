@@ -11,7 +11,7 @@ Projet de Data Analysis & Prédiction sur l'affluence des transports urbains.
 ## Structure du projet
 
 ## Roadmap
-- [x] Collecte des données
+- [ ] Collecte des données
 - [ ] Nettoyage et préparation
 - [ ] Analyse exploratoire (EDA)
 - [ ] Modélisation
