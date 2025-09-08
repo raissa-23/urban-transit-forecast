@@ -205,3 +205,8 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Data (ne pas versionner les bruts)
+data/raw/*
+!data/raw/.gitkeep
+
