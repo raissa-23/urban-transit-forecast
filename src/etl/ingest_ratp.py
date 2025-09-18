@@ -12,9 +12,7 @@ from pathlib import Path
 
 # 1) URL du dataset
 URL = (
-    "https://data.ratp.fr/explore/dataset/"
-    "trafic-annuel-entrant-par-station-du-reseau-ferre/download/"
-    "?format=csv&timezone=Europe/Berlin&lang=fr"
+    "https://data.ratp.fr/explore/dataset/trafic-annuel-entrant-par-station-du-reseau-ferre/download/?format=csv&timezone=Europe/Berlin&lang=fr"
 )
 
 # 2) Préparer le dossier de sortie
