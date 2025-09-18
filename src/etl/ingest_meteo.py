@@ -13,8 +13,8 @@ from pathlib import Path
 
 # -------- PARAMÈTRES À ADAPTER --------
 LAT, LON = 48.8566, 2.3522   # Coordonnées Paris
-ANNEE_DEBUT = 2013
-ANNEE_FIN = 2013            # tu peux mettre 2013 = 2013-2013, ou 2024 = 2013-2024
+ANNEE_DEBUT = 2020
+ANNEE_FIN = 2024            # tu peux mettre 2013 = 2013-2013, ou 2024 = 2013-2024
 
 # Construction des dates automatiquement
 START_DATE = f"{ANNEE_DEBUT}-01-01"
