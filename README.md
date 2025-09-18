@@ -5,12 +5,9 @@ Projet de Data Analysis & Prédiction sur l'affluence des transports urbains.
 ## 🎯 Contexte et But du projet
 
 L’affluence dans les transports urbains varie fortement selon plusieurs facteurs :
-
-les horaires (heures de pointe, week-end, vacances),
-
-les conditions météorologiques (pluie, chaleur, vent),
-
-le calendrier (jours fériés, événements particuliers).
+- les horaires (heures de pointe, week-end, vacances),
+- les conditions météorologiques (pluie, chaleur, vent),
+- le calendrier (jours fériés, événements particuliers).
 
 L’objectif de ce projet est de collecter, analyser et prédire ces variations de fréquentation afin de mieux comprendre et anticiper l’usage des transports.
 
@@ -18,18 +15,15 @@ Ce projet illustre une démarche complète de Data Analysis & Data Science appli
 
 ## 🔍 Objectifs
 
-Collecter des données publiques (fréquentation RATP + météo Open-Meteo).
+- Collecter des données publiques (fréquentation RATP + météo Open-Meteo).
+- Nettoyer et croiser les données pour les rendre exploitables.
+- Analyser les tendances (pics horaires, influence de la météo, impact des jours fériés).
+- Construire un modèle simple de prévision (ex : Prophet).
+- Développer un dashboard interactif (Power BI ou Streamlit).
 
-Nettoyer et croiser les données pour les rendre exploitables.
+## 🗂️ Structure du projet
 
-Analyser les tendances (pics horaires, influence de la météo, impact des jours fériés).
-
-Construire un modèle simple de prévision (ex : Prophet).
-
-Développer un dashboard interactif (Power BI ou Streamlit).
-
-## Structure du projet
-
+```text
 urban-transit-forecast/
 │
 ├── data/                # Données du projet
@@ -43,6 +37,7 @@ urban-transit-forecast/
 │
 ├── README.md            # Documentation du projet
 └── requirements.txt     # Dépendances Python
+```
 
 
 ## Roadmap
