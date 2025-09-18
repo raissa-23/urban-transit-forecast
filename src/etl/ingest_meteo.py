@@ -32,7 +32,7 @@ URL = (
 # -------- SORTIE --------
 RAW_DIR = Path("data/raw")
 RAW_DIR.mkdir(parents=True, exist_ok=True)
-OUTFILE = RAW_DIR / f"meteo_paris_{ANNEE_DEBUT}_{ANNEE_FIN}.csv"
+OUTFILE = RAW_DIR / f"meteo_paris.csv"
 
 def main():
     print(f"➡️ Téléchargement météo de {START_DATE} à {END_DATE}...")
